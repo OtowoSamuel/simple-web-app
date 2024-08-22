@@ -29,7 +29,7 @@ This project sets up a CI/CD pipeline using GitHub Actions to automate the deplo
 5. **Set Up GitHub Actions:**
    Create .github/workflows/main.yml
    
-6. ** Configure Secrets:**
+6. **Configure Github Secrets:**
    
     Go to Settings > Secrets and variables > Actions and add:
     DOCKER_USERNAME
