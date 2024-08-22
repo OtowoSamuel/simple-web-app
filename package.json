@@ -4,7 +4,7 @@
   "description": "Automate Application Deployment with GitHub Actions for a simple web app",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,3 +14,4 @@
     "express": "^4.19.2"
   }
 }
+
